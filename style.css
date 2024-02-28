@@ -9,11 +9,100 @@
         rgba(0, 255, 194, 0.42) 73.95833134651184%,
         rgba(0, 0, 0, 0) 100%
 
-
-
 }
 
 
+
+.titulo1{
+
+    font-size: 50px;
+    
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    
+        width: 100px;
+    height: 50px;
+    left: 150px;
+    top: 40px;
+    position: relative;
+    }
+    
+    
+    .titulo2{
+    
+    font-size: 100px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    
+        left: 270px;
+        top: 15px;
+    position: relative;
+    }
+    
+    
+    .titulo3{
+    
+    font-size: 30px;
+    
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    
+        left: 800px;
+        top: 50px;
+    position: absolute;
+    }
+    
+    
+    
+    .titulo4{
+    
+    
+        font-size: 30px;
+    
+        font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    
+    
+        left: 870px;
+    top: 92px;
+        position: absolute;
+        }
+        
+       
+    
+    .titulo5{
+        left: 1070px;
+        top: 100px;
+        position: absolute;
+        }
+             
+    
+    .fundo{
+    width: 100%;
+    background-color: rgb(215, 234, 250);
+    position: absolute;
+    overflow: hidden;
+    height: 100%;
+    
+    
+    }
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
 
 
 
