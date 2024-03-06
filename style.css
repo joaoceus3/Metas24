@@ -7,7 +7,7 @@
         rgba(5, 0, 255, 1) 39.58333432674408%,
         rgba(255, 255, 255, 0.73) 51.5625%,
         rgba(0, 255, 194, 0.42) 73.95833134651184%,
-        rgba(0, 0, 0, 0) 100%
+        rgba(0, 0, 0, 0) 100%)
 
 }
 
@@ -31,9 +31,10 @@
     
     font-size: 100px;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
-    
-        left: 270px;
-        top: 15px;
+    width: 100px;
+    height: 50px;
+    left: 150px;
+    top: 40px;
     position: relative;
     }
     
@@ -43,10 +44,11 @@
     font-size: 30px;
     
     font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
-    
-        left: 800px;
-        top: 50px;
-    position: absolute;
+    width: 100px;
+    height: 50px;
+    left: 645px;
+    top: 40px;
+    position: relative;
     }
     
     
@@ -58,18 +60,21 @@
     
         font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
     
-    
-        left: 870px;
-    top: 92px;
-        position: absolute;
+        width: 100px;
+        height: 50px;
+        left: 150px;
+        top: 40px;
+        position: relative;
         }
         
        
     
     .titulo5{
-        left: 1070px;
-        top: 100px;
-        position: absolute;
+        width: 100px;
+        height: 50px;
+        left: 150px;
+        top: 40px;
+        position: relative;
         }
              
     
