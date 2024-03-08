@@ -41,14 +41,14 @@
     
     .titulo3{
     
-    font-size: 30px;
+     font-size: 30px;
     
-    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
-    width: 100px;
-    height: 50px;
-    left: 645px;
-    top: 40px;
-    position: relative;
+        font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+        width: 100px;
+      height: 50px;
+        left: 645px;
+        top: 40px;
+        position: relative;
     }
     
     
@@ -59,31 +59,33 @@
         font-size: 30px;
     
         font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
-    
-        width: 100px;
         height: 50px;
-        left: 150px;
-        top: 40px;
+
+        left: 766px;
+        top: -90px;
         position: relative;
         }
         
        
     
     .titulo5{
+
+        font-size: 100px;
+        font-family: 'Times New Roman', Times, serif;
         width: 100px;
         height: 50px;
-        left: 150px;
-        top: 40px;
+        left: 738px;
+        top: -105px;
         position: relative;
         }
              
     
     .fundo{
-    width: 100%;
-    background-color: rgb(215, 234, 250);
-    position: absolute;
-    overflow: hidden;
-    height: 100%;
+        width: 100%;
+        background-color: rgb(215, 234, 250);
+     position: absolute;
+        overflow: hidden;
+        height: 100%;
     
     
     }
