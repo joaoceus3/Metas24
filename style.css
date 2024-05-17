@@ -8,9 +8,12 @@ body {
 }
 
 .container {
-    width: 80%;
-    margin: 50px auto;
-    text-align: center;
+    width: 100%; /* Ocupar toda a largura da tela */
+    max-width: 1000px; /* Definir largura máxima opcional */
+    margin: 0 auto; /* Centralizar na tela */
+    text-align: left; /* Alinhar o texto à esquerda */
+    padding: 20px; /* Adicionar espaçamento interno */
+    box-sizing: border-box; /* Incluir padding no cálculo de largura */
 }
 
 h1 {
@@ -26,12 +29,12 @@ li {
     margin: 10px 0;
     font-size: 18px;
     color: #333; /* Cor preta */
+    display: flex; /* Usar flexbox para alinhar imagem e texto */
+    align-items: center; /* Alinhar verticalmente */
 }
 
-    
-    
-    
-    
-    
-    
-    
+li img {
+    width: 30px; /* Tamanho da imagem */
+    height: auto; /* Altura automática */
+    margin-right: 10px; /* Espaçamento entre imagem e texto */
+}
