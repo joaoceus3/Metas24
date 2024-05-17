@@ -1,0 +1,151 @@
+*{
+    padding: 0;
+    margin: 0;
+  }
+  
+  .fundo{
+     width: 100%;
+     background: linear-gradient(180deg, #FF769F 0%, rgba(244, 170, 192, 0.00) 60.5%, rgba(255, 106, 151, 0.13) 99.1%, rgba(111, 58, 74, 0.00) 100%);
+  position: absolute;
+   height: 900px;
+   overflow: hidden;
+   height: 100%;
+  }
+  
+  .titulo{
+    text-align: center;
+    font-size: 66px;
+    font-family: Georgia;
+    position: absolute;
+    text-align: center;
+    top: 49px;
+  left: 579px;
+    color:rgba(123, 2, 2, 1)
+     }
+  
+  .um{
+  position: absolute;
+  top: 275px;
+  left: 307px;
+  font-size: 50px;
+  text-align: center;
+  color: rgb(208, 112, 149)
+  }    
+  
+  .dois{
+  position: absolute;
+  top: 376px;
+  left: 307px;
+  font-size: 50px;
+  text-align: center;
+  color: rgb(213, 145, 171);
+  }    
+  
+  .tres{
+  position: absolute;
+  top: 477px;
+  left: 307px;
+  font-size: 50px;
+  text-align: center;
+  color: rgb(255, 212, 228);
+  }    
+  
+  .quatro{
+  position: absolute;
+  top: 579px;
+  left: 307px;
+  font-size: 50px;
+  text-align: center;
+  color: rgb(255, 212, 228);
+  }  
+  
+  .cinco{
+  position: absolute;
+  top: 674px;
+  left: 307px;
+  font-size: 50px;
+  text-align: center;
+  color: rgb(213, 145, 171);
+  }  
+  
+  .seis{
+  position: absolute;
+  top: 772px;
+  left: 307px;
+  font-size: 50px;
+  text-align: center;
+  color: rgb(208, 112, 149)
+  }  
+  
+  .livro{
+    position: relative;
+    top: 244px;
+    width: 124px;
+    left: 94px;
+  }
+   
+  .chapeu{
+    position: relative;
+  width: 124px;
+  top: 348px;
+  left: -37px;
+  }
+  
+  .cone{
+    position: relative;
+  width: 76px;
+  top: 403px;
+  left: -152px;
+  }
+  
+  .mundo{
+    position: relative;
+    width: 71px;
+    top: 509px;
+    left: -233px;
+  }
+  
+  .dinheiro{
+    position: relative;
+  width: 76px;
+  top: 606px;
+  left: -313px;
+  }
+  
+  .bola{
+    position: relative;
+    width: 70px;
+    top: 721px;
+    left: -392px;
+  }
+  
+  .ano{
+    font-size: 66px;
+    font-family: Georgia;
+    position: absolute;
+    text-align: center;
+    top: 49px;
+    left: 1723px;
+    color: rgba(123, 2, 2, 1);
+  }
+  
+  .chapeu1{
+    position: relative;
+    width: 124px;
+    top: -17px;
+    left: 1113px;
+  }
+  
+  .eu{
+    position: relative;
+  width: 645px;
+  top: 87px;
+  left: 1113px;
+  }
+  
+  .eu2{
+    position: relative;
+    width: 124px;
+    top: -35px;
+   left: 1113px;
+  }
