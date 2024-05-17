@@ -1,34 +1,40 @@
-
-
 body {
     font-family: Arial, sans-serif;
     margin: 0;
     padding: 0;
-    background-color: #93ffd2;
+    background-color: #f0f0f0;
+}
+
+html, body, .container {
+    height: 100%; /* Garantir que a altura ocupe toda a tela */
 }
 
 .container {
     width: 100%; /* Ocupar toda a largura da tela */
-    max-width: 1000px; /* Definir largura máxima opcional */
-    margin: 0 auto; /* Centralizar na tela */
     text-align: left; /* Alinhar o texto à esquerda */
     padding: 20px; /* Adicionar espaçamento interno */
     box-sizing: border-box; /* Incluir padding no cálculo de largura */
+    display: flex; /* Usar flexbox para alinhar conteúdo */
+    flex-direction: column; /* Direção da flexbox em coluna */
+    justify-content: center; /* Centralizar verticalmente */
+    align-items: center; /* Centralizar horizontalmente */
 }
 
 h1 {
-    color: #501700; /* Cor verde */
+    color: #4CAF50; /* Cor verde */
 }
 
 ul {
     list-style-type: none;
     padding: 0;
+    width: 100%; /* Ocupar toda a largura da container */
+    max-width: 600px; /* Definir largura máxima opcional */
 }
 
 li {
     margin: 10px 0;
     font-size: 18px;
-    color: #320038; /* Cor preta */
+    color: #333; /* Cor preta */
     display: flex; /* Usar flexbox para alinhar imagem e texto */
     align-items: center; /* Alinhar verticalmente */
 }
