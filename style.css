@@ -4,7 +4,7 @@ body {
     font-family: Arial, sans-serif;
     margin: 0;
     padding: 0;
-    background-color: #f0f0f0;
+    background-color: #93ffd2;
 }
 
 .container {
@@ -17,7 +17,7 @@ body {
 }
 
 h1 {
-    color: #4CAF50; /* Cor verde */
+    color: #501700; /* Cor verde */
 }
 
 ul {
@@ -28,7 +28,7 @@ ul {
 li {
     margin: 10px 0;
     font-size: 18px;
-    color: #333; /* Cor preta */
+    color: #320038; /* Cor preta */
     display: flex; /* Usar flexbox para alinhar imagem e texto */
     align-items: center; /* Alinhar verticalmente */
 }
